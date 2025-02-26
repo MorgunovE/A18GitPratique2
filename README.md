@@ -1,4 +1,4 @@
-# A18GitPratique2
+# A18GitPratique2 form Feature-01
 
 A18GitPratique2 is a Java web application built with Maven. It demonstrates a simple servlet that displays a "Hello World!" message. The project is packaged as a WAR file and is configured using a standard `web.xml` file.
 
