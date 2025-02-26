@@ -44,8 +44,8 @@ A18GitPratique2 is a Java web application built with Maven. It demonstrates a si
     
     ### Push the branch to remote
     git push --set-upstream origin Feature-01
-    
-    # Switch to master and merge Feature-01 (using merge method)
+
+   ### Switch to master and merge Feature-01 (using merge method)
     git checkout master
     git merge Feature-01
     
